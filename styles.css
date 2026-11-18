@@ -5,10 +5,10 @@
 
 body {
   margin: 0;
-  width: 100vw;
-  height: 100vh;
+  width: 400vw;
+  height: 300vh;
 
-  background: white;
+  background: #ffc0cb;
   user-select: none;
   -webkit-app-region: drag;
 }
